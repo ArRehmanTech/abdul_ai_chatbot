@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698451314467",
+    "project_id": "abdul-chatbot",
+    "storage_bucket": "abdul-chatbot.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698451314467:android:cdba4e0975688b5991ae96",
+        "android_client_info": {
+          "package_name": "com.example.abdul_ai_chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZR2jlLNxDsMLJveQ02OfjIwW5wksGMFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
